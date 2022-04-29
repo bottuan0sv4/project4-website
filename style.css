@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    padding-left:5% ;
+    padding-right:5% ;
+}
+a {
+    text-decoration: none;
+}
+main img {
+    padding: 1%;
+}
